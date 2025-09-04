@@ -1,0 +1,11 @@
+Date,Store,Product,Category,Units_Sold,Unit_Price,Payment_Method
+2025-01-02,A,Latte,Beverage,34,3.5,Card
+2025-01-02,A,Muffin,Bakery,20,2.75,Cash
+2025-01-02,B,Americano,Beverage,40,3,Card
+2025-01-03,A,Croissant,Bakery,15,3.25,Card
+2025-01-03,B,Latte,Beverage,28,3.5,Cash
+2025-01-03,B,Sandwich,Food,18,5.75,Card
+2025-01-04,A,Americano,Beverage,22,3,Cash
+2025-01-04,B,Muffin,Bakery,12,2.75,Card
+2025-01-04,A,Sandwich,Food,25,5.75,Card
+2025-01-05,B,Croissant,Bakery,19,3.25,Cash
