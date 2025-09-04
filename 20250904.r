@@ -1,8 +1,11 @@
 # Import Packages
 import ggplot2
-
+# Import coffee sales as "sales" DataFrame
 sales <- read.csv("coffee_sales.csv")
+# Show the DataFrame
 head(sales)
+# Add revenue column by multiplying Units Sold by Unit Price
+sales$revenue <- sales$Units_Sold * sales$Unit_Price
 
 
 # Prompt written by Silas Maynord
